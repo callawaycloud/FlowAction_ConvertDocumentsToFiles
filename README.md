@@ -20,8 +20,6 @@ login and navigate to [`/packaging/installPackage.apexp?p0=0Ho5e00000000dyCAA`](
 4. Send the document records to the action
 5. Iterate over the returned ContentVersionIds or ContentDocumentIds
 
-![Imgur](https://i.imgur.com/fSUXBzL.png)
-
 ## ✨Features
 
 ### Reusable
