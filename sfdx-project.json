@@ -1,0 +1,20 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "FlowAction_ConvertDocumentsToFiles",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        }
+    ],
+    "name": "FlowAction_ConvertDocumentsToFiles",
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "52.0",
+    "packageAliases": {
+        "FlowAction_ConvertDocumentsToFiles": "0Ho5e00000000dyCAA",
+        "FlowAction_ConvertDocumentsToFiles@0.1.0-1": "04t5e000000aNstAAE",
+        "FlowAction_ConvertDocumentsToFiles@0.1.0-2": "04t5e000000aNt3AAE"
+    }
+}
