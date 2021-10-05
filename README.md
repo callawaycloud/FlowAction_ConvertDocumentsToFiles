@@ -7,10 +7,10 @@ This means we need an invocable apex method to handle the conversion of document
 ## 📦 Install
 
 **via sfdx-cli**
-`sfdx force:package:install --package 0Ho5e00000000dyCAA -u your@org.user`
+`sfdx force:package:install --package 04t5e000000aNt3AAE -u your@org.user`
 
 **via url**
-login and navigate to [`/packaging/installPackage.apexp?p0=0Ho5e00000000dyCAA`](https://login.salesforce.com/packaging/installPackage.apexp?p0=0Ho5e00000000dyCAA). Choose `Install for: Admin Only`.
+login and navigate to [`/packaging/installPackage.apexp?p0=04t5e000000aNt3AAE`](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t5e000000aNt3AAE). Choose `Install for: Admin Only`.
 
 ## 🔨 Usage
 
